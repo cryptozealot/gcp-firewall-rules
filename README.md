@@ -1,4 +1,4 @@
-GCP firewall rules deny China and Vietnam.
+GCP firewall rules deny per country
 
 In a recent NTP amplification attack our server faced UDP flood coming from 92% China and 7% Vietnam, so maybe this helps
 
